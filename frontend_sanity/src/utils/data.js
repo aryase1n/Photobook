@@ -1,52 +1,42 @@
 export const categories = [
   {
-    name: 'cars',
-    image: 'https://i.pinimg.com/750x/eb/47/44/eb4744eaa3b3ccd89749fa3470e2b0de.jpg',
-  },
-  {
-    name: 'fitness',
-    image: 'https://i.pinimg.com/236x/25/14/29/251429345940a47490cc3d47dfe0a8eb.jpg',
-  },
-  {
-    name: 'wallpaper',
-    image: 'https://i.pinimg.com/236x/03/48/b6/0348b65919fcbe1e4f559dc4feb0ee13.jpg',
-  },
-  {
-    name: 'websites',
-    image: 'https://i.pinimg.com/750x/66/b1/29/66b1296d36598122e6a4c5452b5a7149.jpg',
+    name: 'anime',
+    image: 'https://thenerddaily.com/wp-content/uploads/2018/08/Reasons-To-Watch-Anime.jpg?x13751',
   },
   {
     name: 'photo',
-    image: 'https://i.pinimg.com/236x/72/8c/b4/728cb43f48ca762a75da645c121e5c57.jpg',
-  },
-  {
-    name: 'food',
-    image: 'https://i.pinimg.com/236x/7d/ef/15/7def15ac734837346dac01fad598fc87.jpg',
+    image: 'https://img.freepik.com/premium-photo/cute-couple-love-with-hearts-valentine-s-day-card-3d-render-illustration_691560-7418.jpg?w=740',
   },
   {
     name: 'nature',
-    image: 'https://i.pinimg.com/236x/b9/82/d4/b982d49a1edd984c4faef745fd1f8479.jpg',
+    image: 'https://img.freepik.com/free-photo/cascade-boat-clean-china-natural-rural_1417-1356.jpg?w=1060&t=st=1705411831~exp=1705412431~hmac=1429a4e57f04ffe85cd7d59b41f599bd5c53b067879579f8cbc1f38a346b76ed',
   },
   {
     name: 'art',
-    image: 'https://i.pinimg.com/736x/f4/e5/ba/f4e5ba22311039662dd253be33bf5f0e.jpg',
-  }, {
-    name: 'travel',
-    image: 'https://i.pinimg.com/236x/fa/95/98/fa95986f2c408098531ca7cc78aee3a4.jpg',
+    image: 'https://img.freepik.com/free-photo/people-sitting-bench-forest-night-generative-ai_260559-472.jpg?w=360&t=st=1705411760~exp=1705412360~hmac=34d38761da03f2109d1b451b61407e2c8f6bcfaedce7275e704f236ccf78bda8',
+  },
+  {
+    name: 'food',
+    image: 'https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg?w=740&t=st=1705411974~exp=1705412574~hmac=b9c71657b09c76b27645c4f02a5ca1273c992dae04bc955af32692004983de9f',
+  },
+  {
+    name: 'cats',
+    image: 'https://img.freepik.com/free-photo/close-up-kitten-surrounded-by-flowers_23-2150782329.jpg?t=st=1705411998~exp=1705415598~hmac=4bf71c3a6744b906f8807ba6f48a2436cf02143432659fb491f61d23541a5a13&w=360',
+  },
+  {
+    name: 'dogs',
+    image: 'https://img.freepik.com/free-photo/isolated-happy-smiling-dog-white-background-portrait-2_1562-691.jpg?w=1060&t=st=1705412031~exp=1705412631~hmac=1b09278f5fcfb5abc2ce9cdf2c81ca8e6d13d05aff86e5e4a97e2ffba8830d3d',
   },
   {
     name: 'quotes',
-    image: 'https://i.pinimg.com/236x/46/7c/17/467c17277badb00b638f8ec4da89a358.jpg',
+    image: 'https://img.freepik.com/free-vector/inspirational-quote-watercolour-background_1048-18831.jpg?w=740&t=st=1705412064~exp=1705412664~hmac=4c36b6e1d33215c2f09212effa3b28cb312f8bd8b3b21404e2544e3d3d7682f9',
   }, {
-    name: 'cats',
-    image: 'https://i.pinimg.com/236x/6c/3c/52/6c3c529e8dadc7cffc4fddedd4caabe1.jpg',
-  }, {
-    name: 'dogs',
-    image: 'https://i.pinimg.com/236x/1b/c8/30/1bc83077e363db1a394bf6a64b071e9f.jpg',
+    name: 'travel',
+    image: 'https://img.freepik.com/free-photo/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand_335224-849.jpg?w=1060&t=st=1705412446~exp=1705413046~hmac=5fd9560e6df47e23c145bda718555ffc81b38f04ed90e02734fb3d463a734e45',
   },
   {
-    name: 'others',
-    image: 'https://i.pinimg.com/236x/2e/63/c8/2e63c82dfd49aca8dccf9de3f57e8588.jpg',
+    name: 'fashion',
+    image: 'https://img.freepik.com/free-photo/view-hawaiian-shirt-with-floral-print-hanger_23-2149366088.jpg?w=1060&t=st=1705412111~exp=1705412711~hmac=4b4c4fd935fb73c3a04d7dedff21c45741f020f75806abde4e7cbb3510434226',
   },
 ];
 
